@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    font-size: 50px;
+    color: white;
+}
+
+a {
+    font-size: 32px;
+    color: aqua;
+}
