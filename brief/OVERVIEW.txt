@@ -1,0 +1,39 @@
+CODECADEMY LEARNING PROJECT:   EXCURSION PROJECT
+Site: https://www.codecademy.com/paths/learn-how-to-build-websites/tracks/finishing-touches-and-publishing-a-website/modules/git-and-publishing-to-github-pages/projects/f1-excursion
+
+
+Objective
+FINISHING TOUCHES AND PUBLISHING A WEBSITE
+Excursion Project
+In this project, you’ll create a web page which advertises a product called “Excursion.” 
+You’ll use your growing toolset including HTML, CSS, Command Line Interface, Git, and GitHub. 
+You’ll be proud of yourself when it all comes together!
+
+The web page we’ll build advertises a mobile app which helps users record and share their experiences, 
+so we’ll use video and landscape imagery to set the scene. A landing page is a vital tool in marketing 
+a product these days, and the goal will be to entice potential customers into using the product.
+
+We’ll work with Git and GitHub on our local machines, so if you haven’t yet, refer to the articles 
+on Command Line Interface Setup and Git Setup.
+
+A preview of the page is available here!
+https://content.codecademy.com/programs/freelance-one/excursion/index.html
+
+If you get stuck during this project or would like to see an experienced developer work through it, 
+click “Get Unstuck“ to see a project walkthrough video.
+https://www.youtube.com/watch?v=smYRUiwf8yI&feature=youtu.be
+
+
+NOTE: links below are the original sources, though have also been saved locally to project folder.
+Download the design mock and redline mock. 
+https://content.codecademy.com/programs/freelance-one/excursion/mocks/excursion.png
+https://content.codecademy.com/programs/freelance-one/excursion/mocks/excursion_redline.png
+Review these, and think about how you might implement the web page with HTML and CSS.
+
+
+When it comes to adding the video component, supporting text, and images here are the resources you’ll need:
+MP4 stock video: (downloaded to project file)
+Landscape image: https://content.codecademy.com/programs/freelance-one/excursion/images/camp.jpg
+Cellphone icon: 
+(The white “Cellphone icon” image linked above will appear blank against the white background. 
+We promise it’s there!)
